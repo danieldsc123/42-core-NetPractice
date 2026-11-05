@@ -1,0 +1,8 @@
+# Official 42 materials: keep local, do not redistribute.
+/net_practice/
+/net_practice*.tgz
+/en.subject.pdf
+
+# Local editor and operating system files.
+.vscode/
+.DS_Store
